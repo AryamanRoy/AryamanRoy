@@ -7,11 +7,11 @@
 - 💡 Passionate about solving real-world problems with AI
 
 ## 🛠️ Tech Stack
-**Languages:** Python, C++, Java, MATLAB
-**AI/ML:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
-**Data:** Pandas, NumPy, Matplotlib, Seaborn
-**Tools:** Git, Docker, Jupyter, VS Code, Pycharm
-**Cloud:** AWS, Google Cloud Platform
+- **Languages:** Python, C++, Java, MATLAB
+- **AI/ML:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Git, Docker, Jupyter, VS Code, Pycharm
+- **Cloud:** AWS, Google Cloud Platform
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
