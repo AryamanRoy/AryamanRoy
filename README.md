@@ -22,5 +22,5 @@
 - 📈 [Data Analysis Dashboard](link) - Interactive visualization tool
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([Linkedin](https://www.linkedin.com/in/aryaman-roy-883345110/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman-roy-883345110/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:royaryaman1707@protonmail.com)
