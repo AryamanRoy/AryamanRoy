@@ -14,7 +14,7 @@
 - **Cloud:** AWS, Google Cloud Platform
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AryamanRoy&show_icons=true&theme=radical)
 
 ## 🏆 Featured Projects
 - 🔫 [AI Firearm Detection System](https://github.com/AryamanRoy/AI-Based-Firearm-Detection) - YOLOv5-based security solution
