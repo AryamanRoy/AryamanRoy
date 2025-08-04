@@ -17,7 +17,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AryamanRoy&show_icons=true&theme=radical)
 
 ## 🏆 Featured Projects
-- 🔫 [AI Firearm Detection System](https://github.com/AryamanRoy/AI-Based-Firearm-Detection) - YOLOv5-based security solution
+- 🔫 [AI Firearm Detection System](https://github.com/AryamanRoy/AI-Based-Firearm-Detection) - YOLOv8-based security solution
 - 🤖 [Doubt Solving Agent](https://github.com/AryamanRoy/Doubt-Solving-Agent) - RAG-powered educational assistant
 - 📈 [AI-Driven Stock Selection System](https://github.com/AryamanRoy/AI-Driven-Stock-Selection-System) - AI-driven stock sentiment analysis system.
 
