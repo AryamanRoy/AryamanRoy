@@ -17,6 +17,7 @@
 - 🔫 [AI Firearm Detection System](https://github.com/AryamanRoy/AI-Based-Firearm-Detection) - YOLOv8-based security solution
 - 🤖 [Doubt Solving Agent](https://github.com/AryamanRoy/Doubt-Solving-Agent) - RAG-powered educational assistant
 - 📈 [AI-Driven Stock Selection System](https://github.com/AryamanRoy/AI-Driven-Stock-Selection-System) - AI-driven stock sentiment analysis system.
+- 🩺 [MedAssist: A Medical Chatbot Using GenAi](https://github.com/AryamanRoy/Medical-Chatbot-Using-GenAI) - AI-powered medical assistance chatbot
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman-roy-883345110/)
