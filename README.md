@@ -15,7 +15,7 @@
 
 ## 🏆 Featured Projects
 - 🔫 [SafeSight](https://github.com/AryamanRoy/SafeSight-AI-Based-Firearm-Detection) - YOLOv8-based security solution
-- 🤖 [Doubt Solving Agent](https://github.com/AryamanRoy/Doubt-Solving-Agent) - RAG-powered educational assistant
+- 🤖 [Cortex](https://github.com/AryamanRoy/Doubt-Solving-Agent) - RAG-powered educational assistant
 - 📈 [AlphaSeeker](https://github.com/AryamanRoy/AlphaSeekerAI-Driven-Stock-Selection-System) - AI-driven stock sentiment analysis system.
 - 🩺 [Ada](https://github.com/AryamanRoy/Ada-Medical-Chatbot-Using-GenAI) - AI-powered medical assistance chatbot
 
