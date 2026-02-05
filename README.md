@@ -14,7 +14,7 @@
 - **Cloud:** AWS, Google Cloud Platform
 
 ## 🏆 Featured Projects
-- 🔫 [SafeSight](https://github.com/AryamanRoy/SafeSight-AI-Based-Firearm-Detection) - YOLOv8-based security solution
+- 🔫 [SafeSight](https://github.com/AryamanRoy/SafeSight-AI-Based-Firearm-Detection) - YOLOv5-based security solution
 - 🤖 [Raseed](https://github.com/AryamanRoy/Raseed-FinanceAI) - AI-powered personal finance assistant
 - 📈 [AlphaSeeker](https://github.com/AryamanRoy/AlphaSeekerAI-Driven-Stock-Selection-System) - AI-driven stock sentiment analysis system.
 - 🩺 [Ada](https://github.com/AryamanRoy/Ada-Medical-Chatbot-Using-GenAI) - AI-powered medical assistance chatbot
