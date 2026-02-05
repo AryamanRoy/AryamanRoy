@@ -7,11 +7,14 @@
 - 💡 Passionate about solving real-world problems with AI
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C++, Java, MATLAB
-- **AI/ML:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** Git, Docker, Jupyter, VS Code, Pycharm
-- **Cloud:** AWS, Google Cloud Platform
+- **Programming Languages:** Python, SQL, C,  C++, Java
+- **Machine Learning & AI:** TensorFlow, Keras, PyTorch, scikit-learn, LLMs, RAGs, GenAI
+- **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering
+- **Backend & APIs:** FastAPI, Django, REST APIs
+- **Computer Vision:** OpenCV, YOLOv5
+- **Frontend:** React.js (basic)
+- **Tools:** Git, GitHub, Docker, Jupyter, VS Code, Pycharm
+- **Cloud (Basic Exposure):** AWS, Google Cloud Platform
 
 ## 🏆 Featured Projects
 - 🔫 [SafeSight](https://github.com/AryamanRoy/safesight-yolov5) - YOLOv5-based security solution
